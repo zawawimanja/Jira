@@ -1,2 +1,14 @@
 
+Scrum: Scrum is an agile framework that helps you to organize, iterate, and continue the same project that you are working on. In scrum, a product is built in the series of iterations known as sprints or parts.
+
 scrum board
+
+
+Open
+The 'Open' status means that the tasks which are available in 'Open' are not yet started.
+In progress
+The 'In progress' status means the developers completed their tasks.
+Testing
+The 'testing' means that the task is in a testing phase.
+Closed
+The 'closed' means the task has been completed.
